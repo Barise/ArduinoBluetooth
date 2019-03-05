@@ -51,6 +51,5 @@
             android:theme="@android:style/Theme.Holo.Dialog"/>
     </application>
 
-    
 
 </manifest>
