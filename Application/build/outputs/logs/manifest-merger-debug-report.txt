@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-54:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\af6fbab4c17640ff376f6008570a73b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7ababeec4c247c67fc5daa98c661bc0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\af07d3b7d301acd64fecd42ea2da06fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\fa9eb1da972b1aa2a148b0a7c259a2dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ffc205002916e9f48d017fa540f4b9b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\db6c3cbd8cf4f83011145b189bf7fe51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\30af10a30d23672d609aed09c74b0a12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d452306a8328597b795d2616d3ca6a03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6d8ae6da96366524e3386bd0b1e7178b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2cbf6c30de664fe3c50eb67af65d20da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d69dbd419fddcf075a61f7147b3b0431\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\13bcbeec2b9a2d9e2400776759b567b3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:18:1-54:12
+	package
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:20:5-63
+	android:versionCode
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:26:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:27:22-65
+application
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:29:5-52:19
+	android:label
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:33:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:35:9-44:20
+	android:screenOrientation
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:42:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:46:9-51:63
+	android:screenOrientation
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:50:13-50
+	android:configChanges
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:51:13-61
+	android:name
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml:47:13-47
+uses-sdk
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\af6fbab4c17640ff376f6008570a73b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\af6fbab4c17640ff376f6008570a73b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7ababeec4c247c67fc5daa98c661bc0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7ababeec4c247c67fc5daa98c661bc0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\af07d3b7d301acd64fecd42ea2da06fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\af07d3b7d301acd64fecd42ea2da06fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\fa9eb1da972b1aa2a148b0a7c259a2dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\fa9eb1da972b1aa2a148b0a7c259a2dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ffc205002916e9f48d017fa540f4b9b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ffc205002916e9f48d017fa540f4b9b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\db6c3cbd8cf4f83011145b189bf7fe51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\db6c3cbd8cf4f83011145b189bf7fe51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\30af10a30d23672d609aed09c74b0a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\30af10a30d23672d609aed09c74b0a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d452306a8328597b795d2616d3ca6a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d452306a8328597b795d2616d3ca6a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6d8ae6da96366524e3386bd0b1e7178b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6d8ae6da96366524e3386bd0b1e7178b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2cbf6c30de664fe3c50eb67af65d20da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2cbf6c30de664fe3c50eb67af65d20da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d69dbd419fddcf075a61f7147b3b0431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d69dbd419fddcf075a61f7147b3b0431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\13bcbeec2b9a2d9e2400776759b567b3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\qkfltp01\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\13bcbeec2b9a2d9e2400776759b567b3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qkfltp01\AndroidStudioProjects\BluetoothChat\Application\src\main\AndroidManifest.xml
